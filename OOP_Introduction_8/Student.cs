@@ -3,7 +3,7 @@ using OOP_Introduction;
 
 namespace OOP_Introduction
 {
-    class Student : Person
+    public class Student : Person
     {
         public string studentNumber;
         public Person Advisor;

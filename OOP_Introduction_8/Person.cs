@@ -2,7 +2,7 @@
 
 namespace OOP_Introduction
 {
-    class Person
+    public class Person
     {
         public string firstName;
         public string lastName;

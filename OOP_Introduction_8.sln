@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Introduction_8", "OOP_Introduction_8\OOP_Introduction_8.csproj", "{5C930F23-BA61-4F58-83CE-7F83C2461FC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_In_Class_exercise", "OOP_In_Class_exercise\OOP_In_Class_exercise.csproj", "{8B38FE2E-0C38-4C34-9B69-A3FECD3D1C84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5C930F23-BA61-4F58-83CE-7F83C2461FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C930F23-BA61-4F58-83CE-7F83C2461FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C930F23-BA61-4F58-83CE-7F83C2461FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B38FE2E-0C38-4C34-9B69-A3FECD3D1C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B38FE2E-0C38-4C34-9B69-A3FECD3D1C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B38FE2E-0C38-4C34-9B69-A3FECD3D1C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B38FE2E-0C38-4C34-9B69-A3FECD3D1C84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
