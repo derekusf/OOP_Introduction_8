@@ -16,7 +16,7 @@ namespace OOP_Introduction
             // Console.WriteLine("Hi");
 
             // after fixing access permissions
-            Debug.WriteLine(Student.firstName);
+            Console.WriteLine(Student.firstName);
 
             // using the constructor
             Person Teacher = new Person();
@@ -25,7 +25,7 @@ namespace OOP_Introduction
             // passing by value
             int testVar1 = 3;
             int result1 = ModifyPrimitiveArgument(testVar1);
-            Debug.WriteLine(testVar1 + " " + result1);
+            Console.WriteLine(testVar1 + " " + result1);
 
             // passing by reference
             Person testVar2 = new Person("Doe");
